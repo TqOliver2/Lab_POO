@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab_ClasesYReglas_Poo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc1a72ba5e30fc3c1fca6d3667ea5cc06b281b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec5acda961bc075fd82eab2832e6b6db668d65e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab_ClasesYReglas_Poo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab_ClasesYReglas_Poo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

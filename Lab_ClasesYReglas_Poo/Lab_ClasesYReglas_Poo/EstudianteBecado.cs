@@ -1,28 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 public class EstudianteBecado : Estudiante
 {
-    private double porcentajeBeca;
+    public double PorcentajeBeca { get; set; }
 
-    public double PorcentajeBeca
+    public EstudianteBecado(string nombre, int edad, double porcentajeBeca)
+        : base(nombre, edad)
     {
-        get { return porcentajeBeca; }
-        set
-        {
-            if (value < 0) porcentajeBeca = 0;
-            else if (value > 100) porcentajeBeca = 100;
-            else porcentajeBeca = value;
-        }
-    }
-
-    public EstudianteBecado(string nombre, int edad, double porcentajeBeca): base(nombre, edad)
-    {
-        PorcentajeBeca = porcentajeBeca;
+        if (porcentajeBeca < 0) PorcentajeBeca = 0;
+        else if (porcentajeBeca > 100) PorcentajeBeca = 100;
+        else PorcentajeBeca = porcentajeBeca;
     }
 
     public double CalcularMatriculaConDescuento(double matriculaBase)

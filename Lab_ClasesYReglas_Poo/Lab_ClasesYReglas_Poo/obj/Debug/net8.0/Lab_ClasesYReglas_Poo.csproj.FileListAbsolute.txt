@@ -1,0 +1,15 @@
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\bin\Debug\net8.0\Lab_ClasesYReglas_Poo.exe
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\bin\Debug\net8.0\Lab_ClasesYReglas_Poo.deps.json
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\bin\Debug\net8.0\Lab_ClasesYReglas_Poo.runtimeconfig.json
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\bin\Debug\net8.0\Lab_ClasesYReglas_Poo.dll
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\bin\Debug\net8.0\Lab_ClasesYReglas_Poo.pdb
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.AssemblyInfo.cs
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.sourcelink.json
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.dll
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\refint\Lab_ClasesYReglas_Poo.dll
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.pdb
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\Lab_ClasesYReglas_Poo.genruntimeconfig.cache
+C:\Users\alexi\Documents\SVG\Lab_POO\Lab_ClasesYReglas_Poo\Lab_ClasesYReglas_Poo\obj\Debug\net8.0\ref\Lab_ClasesYReglas_Poo.dll

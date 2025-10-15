@@ -1,8 +1,11 @@
+using System;
+using System.Collections.Generic;
+
 class Program
 {
     static void Main()
     {
-        // AQUÍ SE CREA Y POBLA LA LISTA (HERENCIA + POLIMORFISMO)
+        // Crear y poblar la lista (Herencia + Polimorfismo)
         List<IMostrable> items = new List<IMostrable>
         {
             new Estudiante("Ana", 20),
@@ -18,10 +21,10 @@ class Program
 
         double matriculaBase = 1000;
 
-        // AQUÍ SE RECORRE LA LISTA CON foreach (POLIMORFISMO)
+        // Recorrer la lista (Polimorfismo)
         foreach (IMostrable i in items)
         {
-            i.MostrarDatos(); // Cada objeto usa su propia versión de MostrarDatos()
+            i.MostrarDatos(); // Cada clase usa su propia versión de MostrarDatos()
 
             if (i is EstudianteBecado eb)
             {
@@ -31,5 +34,8 @@ class Program
 
             Console.WriteLine("---------------------------------");
         }
+
+        Console.WriteLine("Presiona cualquier tecla para salir...");
+        Console.ReadKey();
     }
 }
