@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP_15Tq\\Documents\\LAB_Parcial_POO\\Lab_POO\\Lab_ClasesYReglas_Poo\\",
+  "WorkspaceRootPath": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|c:\\users\\hp_15tq\\documents\\lab_parcial_poo\\lab_poo\\lab_clasesyreglas_poo\\lab_clasesyreglas_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|c:\\users\\alexi\\documents\\svg\\lab_poo\\lab_clasesyreglas_poo\\lab_clasesyreglas_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|solutionrelative:lab_clasesyreglas_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|c:\\users\\alexi\\documents\\svg\\lab_poo\\lab_clasesyreglas_poo\\lab_clasesyreglas_poo\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|solutionrelative:lab_clasesyreglas_poo\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|c:\\users\\alexi\\documents\\svg\\lab_poo\\lab_clasesyreglas_poo\\lab_clasesyreglas_poo\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCD759E-2AC3-430D-B2B0-6E9BAE99FD53}|Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo.csproj|solutionrelative:lab_clasesyreglas_poo\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP_15Tq\\Documents\\LAB_Parcial_POO\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_ClasesYReglas_Poo\\Program.cs",
-              "ToolTip": "C:\\Users\\HP_15Tq\\Documents\\LAB_Parcial_POO\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\Program.cs",
-              "RelativeToolTip": "Lab_ClasesYReglas_Poo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EstudianteBecado.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\EstudianteBecado.cs",
+              "RelativeDocumentMoniker": "Lab_ClasesYReglas_Poo\\EstudianteBecado.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\EstudianteBecado.cs",
+              "RelativeToolTip": "Lab_ClasesYReglas_Poo\\EstudianteBecado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:58:19.511Z",
+              "WhenOpened": "2025-10-15T16:10:49.602Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMostrable.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\IMostrable.cs",
+              "RelativeDocumentMoniker": "Lab_ClasesYReglas_Poo\\IMostrable.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\IMostrable.cs",
+              "RelativeToolTip": "Lab_ClasesYReglas_Poo\\IMostrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:09:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_ClasesYReglas_Poo\\Program.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\Lab_POO\\Lab_ClasesYReglas_Poo\\Lab_ClasesYReglas_Poo\\Program.cs",
+              "RelativeToolTip": "Lab_ClasesYReglas_Poo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:58:19.511Z",
+              "EditorCaption": ""
             }
           ]
         }
